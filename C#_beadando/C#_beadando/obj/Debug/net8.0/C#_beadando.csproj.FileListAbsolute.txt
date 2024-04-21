@@ -1,0 +1,14 @@
+D:\suli\C#_beadando\C#_beadando\C#_beadando\bin\Debug\net8.0\C#_beadando.exe
+D:\suli\C#_beadando\C#_beadando\C#_beadando\bin\Debug\net8.0\C#_beadando.deps.json
+D:\suli\C#_beadando\C#_beadando\C#_beadando\bin\Debug\net8.0\C#_beadando.runtimeconfig.json
+D:\suli\C#_beadando\C#_beadando\C#_beadando\bin\Debug\net8.0\C#_beadando.dll
+D:\suli\C#_beadando\C#_beadando\C#_beadando\bin\Debug\net8.0\C#_beadando.pdb
+D:\suli\C#_beadando\C#_beadando\C#_beadando\obj\Debug\net8.0\C#_beadando.GeneratedMSBuildEditorConfig.editorconfig
+D:\suli\C#_beadando\C#_beadando\C#_beadando\obj\Debug\net8.0\C#_beadando.AssemblyInfoInputs.cache
+D:\suli\C#_beadando\C#_beadando\C#_beadando\obj\Debug\net8.0\C#_beadando.AssemblyInfo.cs
+D:\suli\C#_beadando\C#_beadando\C#_beadando\obj\Debug\net8.0\C#_beadando.csproj.CoreCompileInputs.cache
+D:\suli\C#_beadando\C#_beadando\C#_beadando\obj\Debug\net8.0\C#_beadando.dll
+D:\suli\C#_beadando\C#_beadando\C#_beadando\obj\Debug\net8.0\refint\C#_beadando.dll
+D:\suli\C#_beadando\C#_beadando\C#_beadando\obj\Debug\net8.0\C#_beadando.pdb
+D:\suli\C#_beadando\C#_beadando\C#_beadando\obj\Debug\net8.0\C#_beadando.genruntimeconfig.cache
+D:\suli\C#_beadando\C#_beadando\C#_beadando\obj\Debug\net8.0\ref\C#_beadando.dll
